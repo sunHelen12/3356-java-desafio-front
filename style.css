@@ -49,6 +49,8 @@ main {
 .ficha img {
   gap: 1em;
   margin: 0 3em 2em 0;
+  width: 300px;
+  height: 300px;
 }
 
 .ficha-descricao {
